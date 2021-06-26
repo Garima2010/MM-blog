@@ -22,3 +22,12 @@ h2 {
 h3 {
     font-size: 35px;
 }
+.image-section{
+    display: flex;
+    justify-content: center;
+    
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
